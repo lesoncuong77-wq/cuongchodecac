@@ -1,6 +1,6 @@
 -- ⚙️ cuongdz FixLag                                  
 -- Tác giả:cuongdznhattg 
--- 🌟 HNC Roblox - Thông báo hiện giữa màn, 0.5s + nghỉ 0.25s
+-- cuongdz - Thông báo hiện giữa màn, 0.5s + nghỉ 0.25s
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
